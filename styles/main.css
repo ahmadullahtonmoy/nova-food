@@ -1,0 +1,15 @@
+.banner{
+    display: flex;
+    gap: 20px;
+    margin: 10px 0 0 70px;
+}
+.banner-half{
+    width: 40%;
+    padding: 0 20px;
+}
+.banner-half img{
+    width: 100%;
+}
+.left{
+    padding-top: 40px;
+}
