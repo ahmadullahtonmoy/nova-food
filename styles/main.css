@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
 .banner{
     display: flex;
@@ -11,11 +12,11 @@ body{
     width: 45%;
     padding: 0 20px;
 }
+.right{
+    padding-top: 50px;
+}
 .banner-half img{
     width: 100%;
-}
-.left{
-    padding-top: 20px;
 }
 .banner-half h1{
     font-size: 40px;
