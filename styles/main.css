@@ -42,4 +42,18 @@ body{
 /* Footer */
 footer{
     background-color: rgb(76, 76, 76);
+    padding: 40px 0;
+}
+.tree-container{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+}
+.tree-container a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
 }
