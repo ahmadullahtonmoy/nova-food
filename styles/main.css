@@ -38,3 +38,8 @@ body{
     padding: 10px 20px;
     border-radius: 7px;
 }
+
+/* Footer */
+footer{
+    background-color: rgb(76, 76, 76);
+}
